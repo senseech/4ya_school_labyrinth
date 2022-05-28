@@ -35,6 +35,7 @@ public class WalkingInLabyrinth {
             System.out.println();
         }
     }
+
         public static String[][] SearchWay ( int y, int x, String[][] matrix){
             //OUT
             if (numDots == countDots) return matrix;
